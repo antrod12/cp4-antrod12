@@ -1,1 +1,2 @@
-# cp4-antrod12
+# Monday, Sep 20
+Exceptions: 
